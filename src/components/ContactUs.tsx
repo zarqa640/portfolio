@@ -8,7 +8,7 @@ const ContactUs = () => {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-8">Get In Touch</h2>
           <p className="text-gray-300 mb-8">
-            I'm always open to new opportunities and interesting projects.
+            I am always open to new opportunities and interesting projects.
             Feel free to reach out!
           </p>
           <form className="max-w-md mx-auto space-y-4">

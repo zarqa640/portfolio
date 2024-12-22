@@ -10,11 +10,11 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-8">
             <div className="space-y-4">
               <p className="text-gray-300">
-                I'm a passionate developer with 5 years of experience building web applications.
+                I am a passionate developer with 5 years of experience building web applications.
                 I specialize in  Next.js.
               </p>
               <p className="text-gray-300">
-                When I'm not coding, you can find me exploring new technologies,
+                When I am not coding, you can find me exploring new technologies,
                 writing tech blogs, or contributing to open-source projects.
               </p>
             </div>
